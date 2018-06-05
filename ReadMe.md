@@ -32,7 +32,8 @@ This document provides a basic introduction to MsCMS.
     - Change the password of admin From CMS Users (current password is : mscms.admin )
     - then add new admin From CMS Users to use MsCMS
     <p>
-      <img src="/test/test.png" width="400" height="auto"/>
+      <img src="/test/test.png" width="300" height="auto"/>
+      <img src="/test/test.png" width="300" height="auto"/>
     </p>
     
 2. Try adding a new category in the Categories to see if everything is fine 
